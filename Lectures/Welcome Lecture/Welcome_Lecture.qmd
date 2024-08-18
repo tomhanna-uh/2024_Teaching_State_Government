@@ -1,0 +1,151 @@
+---
+title: |
+    | POLS 1302: State Government
+    | Lecture Week 
+    | Title
+author: "Instructor: Tom Hanna, Fall 2024, Our Lady of the Lake University"
+date: last-modified
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [moon, ../assets/custom.scss]
+                logo: ../assets/logo.jpg
+                footer: "POLS1303, Fall 2024, Instructor: Tom Hanna"
+---
+
+## First Week Agenda
+
+Today
+
+          - Introduction
+          - Course Outline/Procedures
+          - Course policies
+          - Brief overview of the course   
+          
+Midweek
+
+        - Anoter brief video lecture
+        - Some short background reading possible
+          
+For you to do
+
+        - Read the Syllabus
+        - Read the Course Calendar
+        - Take the Syllabus Quiz
+        - Complete the Introduction Discussion Post
+        - Watch videos I post later in the week
+        - Complete the Introduction Survey
+        
+
+## Introduction
+
+  * Ph.D. candidate and lecturer in political science at University of Houston (UH)
+  * Teaching: 2 years at UH and over a year at Houston Community College (HCC)
+  * I research the international political behavior of dictators
+  * Former business owner/entrepreneur
+  * cooking, camping, kayaking, and computer gaming
+  * I am excited to be "here" and to know all of you
+
+## Course Outline/Procedures
+
+  * Each week discussion post due on Thursday, Response due on Sunday
+  * Other assignments and quizzes due a week after the topic ends
+  * Course calendar with due dates is in the Syllabus
+  * You should complete assignments in order
+  * If you jump ahead on e-book assignments, check back for new assignments in earlier Topics
+  * Quizzes and Exams will have time limits that make using notes impractical
+
+## Course Policies: Basics
+
+* Exist to help me to help you
+* Transparency - You are free to ask why I do things or have certain rules
+* Professionalism 
+        
+                - You are responsible for your own learning. 
+                - I am responsible for structuring the information.
+                - I am responsible for challenging you!
+                
+* Number 1 Rule: Respect for other people
+* Academic Dishonesty will not be tolerated
+* What is fairness?
+
+## Course Policies: Communication
+
+  * Announcements
+  * Lecture announcements
+  * Email announcements 
+    - go to your ollusa.edu email address
+  * Emailing me - to protect your privacy
+    - Only from your ollusa.edu email address
+    - to thanna@ollusa.edu
+
+
+## Course Policies: Late Work and Makeups
+
+
+  * There are no makeups for weekly Topic quizzes, but the three low grades are dropped
+  * If you miss a Unit Quiz, your Final Exam score will automatically replace it
+  * This is automatic, you do not need any excuse
+  * Late work is accepted
+  * Late work deduction 10% per day
+  * You do not need any excuse to submit late work
+  * No exceptions
+  
+## Brief overview of the course
+
+- Why are we here in this course?
+- What topics will we cover?
+- How will we cover them?
+- What will you learn / gain?
+
+## Why are we here in this course?
+
+- To learn how to study political behavior through the example of state government.
+- To learn about the structure and function of state government using comparative politics methods.
+- To learn how to think critically about political behavior.
+- To consider the proper role of states in the federal system.
+- To consider the proper role of states in the lives of citizens.
+
+## What topics will we cover?
+
+- States and Federalism
+- Major state functions
+- State constitutions
+- The three branches of state governments
+
+        - The Legislature 
+        - The Executive
+        - The Judiciary
+
+- State bureaucracies
+- State political parties, public opinion, and elections
+- State policy making on a variety of topics
+
+
+## How will we cover them?
+
+For each topic, we will:
+
+- Consider the topic in general
+- Briefly consider how it structured at the federal level
+- Consider the Texas example
+- Consider one or more other states as examples, looking for both similarities and differences
+
+## What will you learn / gain?
+
+- Knowledge of the structure and function of state governments
+- A structure for thinking about political behavior in a scientific manner^[There are no right answers]
+- An opportunity to reflect critically on our own beliefs and values about what is proper in government^[Still no right answers]
+
+
+
+## Authorship and License
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../assets/creative_commons_license.png)</a>

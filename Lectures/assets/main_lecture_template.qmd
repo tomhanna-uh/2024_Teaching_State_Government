@@ -1,0 +1,80 @@
+---
+title: |
+    | POLS 1302: State Government
+    | Lecture Week 
+    | Title
+author: "Instructor: Tom Hanna, Fall 2024, Our Lady of the Lake University"
+date: last-modified
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [moon, custom.scss]
+                logo: logo.jpg
+                footer: "POLS1303, Fall 2024, Instructor: Tom Hanna"
+---
+
+## First Week Agenda
+
+Today
+
+          - Introduction
+          - Course Outline/Procedures
+          - Course policies
+
+
+## Introduction
+
+  * Ph.D. candidate and lecturer in political science at University of Houston
+  * Adam Smith Fellow at Mercatus Center, George Mason University in Arlington Virginia
+  * I research the international political behavior of dictators
+  * Generation X
+  * Former business owner/entrepreneur
+  * cooking, camping, kayaking, and computer gaming
+
+## Course Outline/Procedures
+
+  * You must complete most of Module 0 by the end of this week to be counted in class attendance
+  * Being counted absent as of the Census Date  will result in an automatic drop from the course (HCC policy)
+  * You will do most work directly in the Modules
+  * You must complete Modules in order
+  * Later modules will show up as the lectures and assignments are ready
+
+## Course Policies: Basics
+
+  * Exist to help me to help you
+  * Hidden curriculum and professionalism
+  * Number 1 Rule: Respect for other people
+  * What is fairness?
+
+## Course Policies: Communication
+
+  * Announcements
+  * Lecture announcements
+  * Email announcements 
+    - go to your hccs.edu email address
+  * Emailing me 
+    - from your hccs.edu email address
+    - to tom.hanna@hccs.edu
+  * Absolutely no icloud email addresses
+
+## Course Policies: Late Work and Makeups
+
+
+  * There is no need for makeups
+  * Late work deduction 10% per day
+  * Maximum deduction is 70%
+  * No exceptions, no excuses
+  
+  
+
+
+## Authorship and License
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
