@@ -1,0 +1,218 @@
+---
+title: |
+    | POLS 1302: State Government
+    | What is government? What is politics?
+author: "Instructor: Tom Hanna, Fall 2024, Our Lady of the Lake University"
+date: last-modified
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [moon, ../assets/custom.scss]
+                logo: ../assets/logo.jpg
+                footer: "POLS1303, Fall 2024, Instructor: Tom Hanna"
+---
+
+# introduction to Government
+
+## Introduction to Government: Writing Exercises
+
+- These writing exercises will help you get started on the Discussion Post assignment
+- You may need to supplement these notes with specific examples from the textbook, recent credible news items, or other credible sources
+        
+## Introduction to Government: Writing Exercises
+
+Grab a piece of paper and write down your thoughts on the following questions. You can pause the video to write. 
+
+## Impact of politics
+
+::: {.custom-style style="font-size: 80px;"}
+What was the last time that politics made a difference in your life?
+:::
+
+## Impact of government
+
+::: {.custom-style style="font-size: 80px;"}
+What was the last time that government made a difference in your life? Is this different than the last answer? Why?
+:::
+
+## Defining government in your own words
+
+:::{.custom-style style="font-size: 80px;"}
+What is government or "The State" in your own words? 
+:::
+
+(This does not need to be a "correct" definition. The point is to see your preconceived thoughts on the subject.)
+
+## Defining politics in your own words
+
+:::{.custom-style style="font-size: 80px;"}
+What is politics?
+:::
+
+# Defining government
+
+## Defining government: Comparing government to other organizations
+
+
+::: {.custom-style style="font-size: 80px;"}
+What makes government or The State different from other organizations in the following list? what makes it similar
+:::
+
+## Other organizations
+
+- Family
+
+        - What does it have in common?
+        - What is different?
+
+
+## Other organizations
+
+- Family
+- Church
+
+        - What does it (government) have in common?
+        - What is different?
+
+
+## Other organizations
+
+- Family
+- Church
+- Community organizations (voluntary)
+
+        - What does it have in common?
+        - What is different?
+
+## Other organizations
+
+- Family
+- Church
+- Community organizations (voluntary)
+- Charities
+
+        - What does it have in common?
+        - What is different?
+
+
+
+
+## Other organizations
+
+- Family
+- Church
+- Community organizations (voluntary)
+- Charities
+- Businesses - The Market
+
+        - What does it have in common?
+        - What is different?
+        
+
+## Other organizations: Part 1
+
+- In common with government
+
+        - Solve problems of collective action
+        
+## Collective action
+
+- Collective action is when a group of people work together to achieve a common goal.
+- Is government required to do this? Can people work together voluntarily to achieve a common goal?
+
+
+## Other organizations: Part 1
+
+- In common with government
+
+        - Solve problems of collective action
+        - provide goods and services people want or need
+        - have some degree of structure and rules
+        - have leaders
+        - have resources (money, property, labor, etc.)
+        
+- Different from government
+
+        - Voluntary
+        - Can not use force to coerce behavior from members or non-members
+        - Can not use force to coerce payment (taxation)
+
+
+
+## Other organizations: Part 2
+
+- Organized crime
+
+        - What does it have in common?
+        - What is different?
+
+## Other organizations: Part 2
+
+- Organized crime
+- vigilantes
+
+        - What does it have in common?
+        - What is different?
+
+
+## Other organizations: Part 2
+
+- Organized crime
+- vigilantes
+- terrorist groups
+
+        - What does it have in common?
+        - What is different?
+        
+## Other organizations: Part 2
+
+- What they have in common with government?
+
+        - They use violent force to coerce behavior
+        - They lack legitimacy
+        
+## What is government or "the state"?
+
+**The organized, coercive use of violent force commonly accepted as legitimate** 
+
+- Coercive use of violent force
+- Legitimacy
+
+## What is politics?
+
+- **Politics is the process of making collective decisions in the context of...**
+
+## What is politics?
+
+- **Politics is the process of making collective decisions in the context of...**
+
+The State or government.
+
+
+## Politics versus other organizations
+
+Family, church, the market, etc. are all about making collective decisions in: 
+
+**The Voluntary Sphere**
+
+## Politics is about
+
+Making collective decisions in:
+
+**The Coercive Sphere**
+
+
+
+
+## Authorship and License
+
+Do not share to Chegg, Coursehero, or similar websites.
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](creative_commons_license.png)</a>
