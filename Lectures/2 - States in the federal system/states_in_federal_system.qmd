@@ -1,0 +1,153 @@
+---
+title: |
+    | POLS 1302: State Government
+    | States in the Federal System
+author: "Instructor: Tom Hanna, Fall 2024, Our Lady of the Lake University"
+date: September 2, 2024
+format: 
+        revealjs:
+                self-contained: true
+                transition: convex
+                theme: [moon, ../assets/custom.scss]
+                logo: ../assets/logo.jpg
+                footer: "POLS1303, Fall 2024, Instructor: Tom Hanna"
+---
+
+# Federalism
+
+## Federalism is part of the U.S. Constitution
+
+![Source: Bill of Rights Institute](./separation_of_powers.jpg)
+
+- Like separation of powers generally, federalism is a way to prevent abuse of power by government.
+- Federalism is the division of power between the national government and the states.
+
+## Federalism is part of the U.S. Constitution
+
+
+> The Constitution was devised with an ingenious and  intricate built-in system of checks and balances to guard  the people’s liberty against combinations of government  power.
+
+[National Center for Constitutional Studies: https://nccs.net/](https://nccs.net/)
+
+
+## Federalism is the result of history
+
+> That these United Colonies are, and of Right ought to be Free and Independent States; 
+
+- Declaration of Indendepence
+
+
+## Federalism is the result of history
+
+> That these United Colonies are, and of Right ought to be Free and Independent States; 
+
+- Declaration of Indendepence
+- 13 free and independent states, plural
+- Not one free and independent state, singular
+
+## Federalism is the result of history
+
+- The Constitution combined 13 independent states into one nation.
+- Every state had to agree.
+- The Constitution gave specific powers to the national government and reserved all other powers to the states.
+
+## National Powers
+
+- Constitution gave explicit powers to the federal government
+
+
+![Source: https://www.youtube.com/@CareyLaManna](enumerated.jpg)
+
+## Bill of Rights
+
+> The powers not delegated to the United States by the  Constitution, nor prohibited by it to the States, are reserved to  the States respectively, or to the people.
+
+- 10th Amendment to the United States Constitution
+
+
+
+## Bill of Rights
+
+::: {.custom-style style="font-size: 80px;"}
+Unless the Constitution gives the federal government a power, it remains a state power or a right of the people
+:::
+
+
+## State Powers
+
+- States kept all powers not expressly given to the federal government  
+- Police powers were reserved by states to regulat **most major issues** like:
+
+
+## State Powers
+
+::: {.custom-style style="font-size: 80px;"}
+MURDER!
+:::
+- Assault, battery, kidnapping, almost all crimes of violence
+
+
+
+## State Powers
+
+::: {.custom-style style="font-size: 80px;"}
+THEFT!
+:::
+- fraud, robbery, trespassing, almost all crimes against property
+
+
+## State Powers
+
+::: {.custom-style style="font-size: 80px;"}
+PROPERTY REGISTRATION!
+:::
+
+
+## State Powers
+
+::: {.custom-style style="font-size: 80px;"}
+BUSINESS FORMATION and CONTRACTS           
+:::
+Most laws relating to contracts, types of businesses, liability, and more
+
+## State Powers
+
+::: {.custom-style style="font-size: 80px;"}
+INSURANCE          
+:::
+
+
+## State Powers
+
+::: {.custom-style style="font-size: 80px;"}
+EDUCATION       
+:::
+
+
+
+## State Powers
+
+::: {.custom-style style="font-size: 80px;"}
+ALMOST EVERYTHING *INTRASTATE*      
+:::
+Intrastate is within a single state's borders
+
+
+
+
+
+
+## Authorship and License
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../assets/creative_commons_license.png)</a>
+
+
+
+
+

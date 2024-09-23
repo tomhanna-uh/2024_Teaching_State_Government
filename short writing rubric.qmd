@@ -1,0 +1,79 @@
+---
+title: "Short Writing Final Draft Rubric"
+format: html
+editor: source
+---
+
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+</style>
+
+
+<h2>2024FL STATE GOVERNMENT POLITICS (POLS-1302-OL01) Short Writing Rubric</h2>
+
+<table>
+  <tr>
+    <th>Criteria</th>
+    <th>Outstanding (25 percent)</th>
+    <th>Excellent (20 percent)</th>
+    <th>Proficient (15 percent)</th>
+    <th>Satisfactory (10 percent)</th>
+    <th>Needs Improvement (5 percent)</th>
+  </tr>
+  <tr>
+    <td>Answers the question</td>
+    <td>The response thoroughly and accurately answers the question, demonstrating a deep understanding of the topic.</td>
+    <td>The response adequately answers the question, demonstrating a solid understanding of the topic.</td>
+    <td>The response partially answers the question, demonstrating some understanding of the topic.</td>
+    <td>The response somewhat addresses the question but lacks clarity or depth of understanding.</td>
+    <td>The response does not answer the question or demonstrates a lack of understanding of the topic.</td>
+  </tr>
+  <tr>
+    <td>Uses evidence to build a rational argument</td>
+    <td>The response skillfully uses substantial evidence to develop a compelling and logical argument.</td>
+    <td>The response effectively uses relevant evidence to support the argument.</td>
+    <td>The response uses some evidence to support the argument, but it may not be fully developed or persuasive.</td>
+    <td>The response presents limited or weak evidence to support the argument.</td>
+    <td>The response lacks sufficient evidence to support the argument.</td>
+  </tr>
+  <tr>
+    <td>Shows understanding of appropriate course content</td>
+    <td>The response demonstrates a comprehensive understanding of the course content and applies it effectively.</td>
+    <td>The response shows a good understanding of the course content and applies it appropriately.</td>
+    <td>The response demonstrates some understanding of the course content but may lack depth or accuracy in its application.</td>
+    <td>The response shows limited understanding of the course content and fails to apply it effectively.</td>
+    <td>The response does not demonstrate a clear understanding of the course content or fails to apply it appropriately.</td>
+  </tr>
+  <tr>
+    <td>Quality of writing</td>
+    <td>The response exhibits exceptional quality of writing, including strong organization, clarity, coherence, and effective use of language.</td>
+    <td>The response demonstrates good quality of writing, with clear organization, coherence, and effective use of language.</td>
+    <td>The response shows adequate quality of writing, but it may lack some organization, coherence, or effective use of language.</td>
+    <td>The response has limited quality of writing, with significant issues in organization, coherence, or effective use of language.</td>
+    <td>The response lacks quality of writing, with major issues in organization, coherence, or effective use of language.</td>
+  </tr>
+  <tr>
+    <td>Appropriate citations</td>
+    <td>The response includes proper citations and references, consistently following the appropriate citation style.</td>
+    <td>The response includes appropriate citations and references, generally following the appropriate citation style.</td>
+    <td>The response incorporates some citations and references, but there may be instances of improper or inconsistent citation style.</td>
+    <td>The response lacks proper citations and references, with inconsistent or inadequate use of citation style.</td>
+    <td>The response does not include appropriate citations and references, or there are significant issues with citation style.</td>
+  </tr>
+</table>
+
+
+</html>
